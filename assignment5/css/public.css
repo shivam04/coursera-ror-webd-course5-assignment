@@ -183,3 +183,22 @@ h3.menu-item-title {
     width: 100%;
   }
 }
+
+/***** Sign up form   ****/
+input.inputField {
+  color: black;
+}
+
+/***** My info *****/
+div.info{
+  text-align: center;
+}
+div.info img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+a.info-redirect{
+  font-size: 40px;
+}
